@@ -1,1 +1,1 @@
-console.log ('testando o  vs');
+console.log ('testando o vs!');
